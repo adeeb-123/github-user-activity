@@ -1,0 +1,20 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "bin": {
+    "greet-me": "./index.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "chalk": "^5.6.2"
+  },
+  "type": "module"
+}
